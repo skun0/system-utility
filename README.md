@@ -1,2 +1,1 @@
-# system-utility
-C++ System Utility CLI
+# C++ System Utility CLI
